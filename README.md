@@ -1,4 +1,4 @@
-# picture-IngestSearch
+# picture_ingest_search
 Sample implementation to ingest pictures using voyage.ai multimodal embeddings and store them in a MongoDB vector collection.
 
 ## Quick setup
